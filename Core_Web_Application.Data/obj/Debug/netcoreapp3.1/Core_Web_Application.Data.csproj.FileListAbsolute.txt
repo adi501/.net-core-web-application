@@ -1,0 +1,12 @@
+E:\TestProjects\Core_Solution\Core_Web_Application.Data\obj\Debug\netcoreapp3.1\Core_Web_Application.Data.csprojAssemblyReference.cache
+E:\TestProjects\Core_Solution\Core_Web_Application.Data\obj\Debug\netcoreapp3.1\Core_Web_Application.Data.AssemblyInfoInputs.cache
+E:\TestProjects\Core_Solution\Core_Web_Application.Data\obj\Debug\netcoreapp3.1\Core_Web_Application.Data.AssemblyInfo.cs
+E:\TestProjects\Core_Solution\Core_Web_Application.Data\obj\Debug\netcoreapp3.1\Core_Web_Application.Data.csproj.CoreCompileInputs.cache
+E:\TestProjects\Core_Solution\Core_Web_Application.Data\bin\Debug\netcoreapp3.1\Core_Web_Application.Data.deps.json
+E:\TestProjects\Core_Solution\Core_Web_Application.Data\bin\Debug\netcoreapp3.1\Core_Web_Application.Data.dll
+E:\TestProjects\Core_Solution\Core_Web_Application.Data\bin\Debug\netcoreapp3.1\Core_Web_Application.Data.pdb
+E:\TestProjects\Core_Solution\Core_Web_Application.Data\obj\Debug\netcoreapp3.1\Core_Web_Application.Data.dll
+E:\TestProjects\Core_Solution\Core_Web_Application.Data\obj\Debug\netcoreapp3.1\Core_Web_Application.Data.pdb
+E:\TestProjects\Core_Solution\Core_Web_Application.Data\bin\Debug\netcoreapp3.1\Core_Web_Application.Core.dll
+E:\TestProjects\Core_Solution\Core_Web_Application.Data\bin\Debug\netcoreapp3.1\Core_Web_Application.Core.pdb
+E:\TestProjects\Core_Solution\Core_Web_Application.Data\obj\Debug\netcoreapp3.1\Core_Web_Application.Data.csproj.CopyComplete

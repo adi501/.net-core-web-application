@@ -1,0 +1,9 @@
+E:\TestProjects\Core_Solution\Core_Web_Application.Core\obj\Debug\netcoreapp3.1\Core_Web_Application.Core.csprojAssemblyReference.cache
+E:\TestProjects\Core_Solution\Core_Web_Application.Core\obj\Debug\netcoreapp3.1\Core_Web_Application.Core.AssemblyInfoInputs.cache
+E:\TestProjects\Core_Solution\Core_Web_Application.Core\obj\Debug\netcoreapp3.1\Core_Web_Application.Core.AssemblyInfo.cs
+E:\TestProjects\Core_Solution\Core_Web_Application.Core\obj\Debug\netcoreapp3.1\Core_Web_Application.Core.csproj.CoreCompileInputs.cache
+E:\TestProjects\Core_Solution\Core_Web_Application.Core\bin\Debug\netcoreapp3.1\Core_Web_Application.Core.deps.json
+E:\TestProjects\Core_Solution\Core_Web_Application.Core\bin\Debug\netcoreapp3.1\Core_Web_Application.Core.dll
+E:\TestProjects\Core_Solution\Core_Web_Application.Core\bin\Debug\netcoreapp3.1\Core_Web_Application.Core.pdb
+E:\TestProjects\Core_Solution\Core_Web_Application.Core\obj\Debug\netcoreapp3.1\Core_Web_Application.Core.dll
+E:\TestProjects\Core_Solution\Core_Web_Application.Core\obj\Debug\netcoreapp3.1\Core_Web_Application.Core.pdb
